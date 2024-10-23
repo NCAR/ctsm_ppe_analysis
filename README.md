@@ -22,7 +22,11 @@ Analysis of the Community Terrestrial Systems Model (CTSM) perturbed parameter e
 3. click production and then select the Default server
 4. we usually select the casper batch queue
 5. I typically make the following two edits:
+
 Specify Memory per Node in GB (-l mem=N)
+
 14
+
 Wall Time HH:MM:SS (24-hour max)
+
 12:00
