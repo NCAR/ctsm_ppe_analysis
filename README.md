@@ -30,6 +30,7 @@ Analysis of the Community Terrestrial Systems Model (CTSM) perturbed parameter e
     Wall Time HH:MM:SS (24-hour max)
 
     12:00
-6. navigate to ctsm_ppe_analysis/notebooks and select a notebook
-7. select [conda env: miniconda3-ppe-py] as your kernel
-8. now you should be able to run any of the templates cell by cell
+6. launch server
+7. navigate (using the left side panel) to ctsm_ppe_analysis/notebooks and select a notebook
+8. select [conda env: miniconda3-ppe-py] as your kernel
+9. now you should be able to run any of the templates cell by cell
