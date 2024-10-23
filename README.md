@@ -32,5 +32,5 @@ Analysis of the Community Terrestrial Systems Model (CTSM) perturbed parameter e
     12:00
 6. launch server
 7. navigate (using the left side panel) to ctsm_ppe_analysis/notebooks and select a notebook
-8. select [conda env: miniconda3-ppe-py] as your kernel
+8. select [conda env: miniconda3-ppe-py] as your kernel (top right)
 9. now you should be able to run any of the templates cell by cell
