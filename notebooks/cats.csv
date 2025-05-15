@@ -1,0 +1,253 @@
+,param,cat,subcat,color
+-1,C2_liq_Brun89,Hydrology,Snow,#4777AE
+0,CWD,Biogeochemistry,Decomposition,#AE7E47
+1,FR,Biogeochemistry,Phenology,#AE7E47
+2,FUN_fracfixers,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+3,KCN,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+4,LF,Biogeochemistry,Phenology,#AE7E47
+5,Q10,Biogeochemistry,Decomposition,#AE7E47
+6,a_coef,Biophysics,Sensible and latent heat properties,#AE47AA
+7,a_exp,Biophysics,Sensible and latent heat properties,#AE47AA
+8,a_fix,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+9,accum_factor,Hydrology,Snow,#4777AE
+10,akc_active,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+11,akn_active,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+12,aq_sp_yield_min,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+13,b_fix,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+14,baseflow_scalar,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+15,boreal_peatfire_c,Fire,Fire,#d5492a
+16,br_mr,Biogeochemistry,Respiration,#AE7E47
+17,br_root,Biogeochemistry,Respiration,#AE7E47
+18,bsw_sf,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+19,c_fix,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+20,cc_dstem,Fire,Fire,#d5492a
+21,cc_leaf,Fire,Fire,#d5492a
+22,cc_lstem,Fire,Fire,#d5492a
+23,cc_other,Fire,Fire,#d5492a
+24,ceta,Hydrology,Snow,#4777AE
+25,ck,"Stomatal Conductance &
+Photosynthesis",Transpiration and water use,#47AE4B
+26,clay_pf,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+27,cmb_cmplt_fact_cwd,Fire,Fire,#d5492a
+28,cmb_cmplt_fact_litter,Fire,Fire,#d5492a
+29,cn_s3_bgc,Biogeochemistry,Decomposition,#AE7E47
+30,cp25_yr2000,"Stomatal Conductance &
+Photosynthesis",Photosynthesis,#47AE4B
+31,cpha,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+32,crit_dayl,Biogeochemistry,Phenology,#AE7E47
+33,crit_offset_fdd,Biogeochemistry,Phenology,#AE7E47
+34,crit_offset_swi,Biogeochemistry,Phenology,#AE7E47
+35,crit_onset_gdd_sf,Biogeochemistry,Phenology,#AE7E47
+36,crit_onset_swi,Biogeochemistry,Phenology,#AE7E47
+37,croot_stem,Biogeochemistry,Allocation,#AE7E47
+38,cropfire_a1,Fire,Fire,#d5492a
+39,cryoturb_diffusion_k,Biogeochemistry,Decomposition,#AE7E47
+40,csoilc,Biophysics,Sensible and latent heat properties,#AE47AA
+41,csol_clay,Hydrology,Soil thermal properties,#4777AE
+42,csol_om,Hydrology,Soil thermal properties,#4777AE
+43,csol_sand,Hydrology,Soil thermal properties,#4777AE
+44,cv,Biophysics,Sensible and latent heat properties,#AE47AA
+45,d_max,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+46,decomp_depth_efolding,Biogeochemistry,Decomposition,#AE7E47
+47,denitrif_nitrateconc_coefficient,Biogeochemistry,Nitrogen cycle,#AE7E47
+48,denitrif_nitrateconc_exponent,Biogeochemistry,Nitrogen cycle,#AE7E47
+49,denitrif_respiration_coefficient,Biogeochemistry,Nitrogen cycle,#AE7E47
+50,denitrif_respiration_exponent,Biogeochemistry,Nitrogen cycle,#AE7E47
+51,displar,Biophysics,Sensible and latent heat properties,#AE47AA
+52,dleaf,Biophysics,Sensible and latent heat properties,#AE47AA
+53,drift_gs,Hydrology,Snow,#4777AE
+54,dsladlai,"Stomatal Conductance &
+Photosynthesis",Leaf Use of Nitrogen for Assimilation,#47AE4B
+55,e_ice,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+56,ekc_active,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+57,ekn_active,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+58,enzyme_turnover_daily,"Stomatal Conductance &
+Photosynthesis",Leaf Use of Nitrogen for Assimilation,#47AE4B
+59,eta0_vionnet,Hydrology,Snow,#4777AE
+60,fbw,Biophysics,Biomass Heat Storage,#AE47AA
+61,fd_pft,Fire,Fire,#d5492a
+62,fff,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+63,flivewd,Biogeochemistry,Allocation,#AE7E47
+64,fm_droot,Fire,Fire,#d5492a
+65,fm_leaf,Fire,Fire,#d5492a
+66,fm_lroot,Fire,Fire,#d5492a
+67,fm_lstem,Fire,Fire,#d5492a
+68,fm_other,Fire,Fire,#d5492a
+69,fm_root,Fire,Fire,#d5492a
+70,fnps,"Stomatal Conductance &
+Photosynthesis",Photosynthesis,#47AE4B
+71,frac_sat_soil_dsl_init,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+72,freelivfix_intercept,Biogeochemistry,Nitrogen cycle,#AE7E47
+73,freelivfix_slope_wet,Biogeochemistry,Nitrogen cycle,#AE7E47
+74,froot_leaf,Biogeochemistry,Allocation,#AE7E47
+75,frootcn,Biogeochemistry,Allocation,#AE7E47
+76,fsr_pft,Fire,Fire,#d5492a
+77,fstor2tran,Biogeochemistry,Phenology,#AE7E47
+78,fun_cn_flex_a,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+79,fun_cn_flex_b,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+80,fun_cn_flex_c,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+81,grperc,Biogeochemistry,Respiration,#AE7E47
+82,hksat_sf,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+83,ignition_efficiency,Fire,Fire,#d5492a
+84,interception_fraction,Biophysics,Sensible and latent heat properties,#AE47AA
+85,jmax25top_sf,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+86,jmaxb0,"Stomatal Conductance &
+Photosynthesis",Leaf Use of Nitrogen for Assimilation,#47AE4B
+87,jmaxb1,"Stomatal Conductance &
+Photosynthesis",Leaf Use of Nitrogen for Assimilation,#47AE4B
+88,jmaxha,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+89,jmaxhd,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+90,jmaxse_sf,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+91,k_nitr_max_perday,Biogeochemistry,Nitrogen cycle,#AE7E47
+92,kc25_coef,"Stomatal Conductance &
+Photosynthesis",Photosynthesis,#47AE4B
+93,kc_nonmyc,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+94,kcha,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+95,kmax,"Stomatal Conductance &
+Photosynthesis",Transpiration and water use,#47AE4B
+96,kn_nonmyc,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+97,ko25_coef,"Stomatal Conductance &
+Photosynthesis",Photosynthesis,#47AE4B
+98,koha,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+99,kp25ratio,"Stomatal Conductance &
+Photosynthesis",Photosynthesis,#47AE4B
+100,krmax,"Stomatal Conductance &
+Photosynthesis",Transpiration and water use,#47AE4B
+101,lai_dl,Biophysics,Sensible and latent heat properties,#AE47AA
+102,leaf_long,Biogeochemistry,Phenology,#AE7E47
+103,leafcn,Biogeochemistry,Allocation,#AE7E47
+104,lfuel,Fire,Fire,#d5492a
+105,liq_canopy_storage_scalar,Biophysics,Sensible and latent heat properties,#AE47AA
+106,lmr_intercept_atkin,Biogeochemistry,Respiration,#AE7E47
+107,lmrha,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+108,lmrhd,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+109,lmrse,"Stomatal Conductance &
+Photosynthesis",Photosynthesis,#47AE4B
+110,luna_theta_cj,"Stomatal Conductance &
+Photosynthesis",Leaf Use of Nitrogen for Assimilation,#47AE4B
+111,lwtop_ann,Biogeochemistry,Phenology,#AE7E47
+112,max_altdepth_cryoturbation,Biogeochemistry,Decomposition,#AE7E47
+113,max_altmultiplier_cryoturb,Biogeochemistry,Decomposition,#AE7E47
+114,maximum_leaf_wetted_fraction,Biophysics,Sensible and latent heat properties,#AE47AA
+115,maxpsi_hr,Biogeochemistry,Decomposition,#AE7E47
+116,medlynintercept,"Stomatal Conductance &
+Photosynthesis",Transpiration and water use,#47AE4B
+117,medlynslope,"Stomatal Conductance &
+Photosynthesis",Transpiration and water use,#47AE4B
+118,minpsi_hr,Biogeochemistry,Decomposition,#AE7E47
+119,minrelh,"Stomatal Conductance &
+Photosynthesis",Leaf Use of Nitrogen for Assimilation,#47AE4B
+120,mu,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+121,n_baseflow,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+122,n_melt_coef,Hydrology,Snow,#4777AE
+123,ndays_off,Biogeochemistry,Phenology,#AE7E47
+124,ndays_on,Biogeochemistry,Phenology,#AE7E47
+125,non_boreal_peatfire_c,Fire,Fire,#d5492a
+126,nstem,Biophysics,Biomass Heat Storage,#AE47AA
+127,occur_hi_gdp_tree,Fire,Fire,#d5492a
+128,om_frac_sf,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+129,pc,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+130,pd,Hydrology,Soil thermal properties,#4777AE
+131,perched_baseflow_scalar,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+132,pot_hmn_ign_counts_alpha,Fire,Fire,#d5492a
+133,prh30,Fire,Fire,#d5492a
+134,psi50,"Stomatal Conductance &
+Photosynthesis",Transpiration and water use,#47AE4B
+135,q10_mr,Biogeochemistry,Decomposition,#AE7E47
+136,r_mort,Biogeochemistry,Nitrogen cycle,#AE7E47
+137,relhExp,"Stomatal Conductance &
+Photosynthesis",Leaf Use of Nitrogen for Assimilation,#47AE4B
+138,rf_l1s1_bgc,Biogeochemistry,Decomposition,#AE7E47
+139,rf_l2s1_bgc,Biogeochemistry,Decomposition,#AE7E47
+140,rf_l3s2_bgc,Biogeochemistry,Decomposition,#AE7E47
+141,rf_s2s1_bgc,Biogeochemistry,Decomposition,#AE7E47
+142,rf_s2s3_bgc,Biogeochemistry,Decomposition,#AE7E47
+143,rf_s3s1_bgc,Biogeochemistry,Decomposition,#AE7E47
+144,rh_hgh,Fire,Fire,#d5492a
+145,rh_low,Fire,Fire,#d5492a
+146,rho_max,Hydrology,Snow,#4777AE
+147,rholnir,Biophysics,Radiation,#AE47AA
+148,rholvis,Biophysics,Radiation,#AE47AA
+149,rhosnir,Biophysics,Radiation,#AE47AA
+150,rhosvis,Biophysics,Radiation,#AE47AA
+151,rootprof_beta,"Stomatal Conductance &
+Photosynthesis",Transpiration and water use,#47AE4B
+152,rstem,Biophysics,Biomass Heat Storage,#AE47AA
+153,s_fix,Biogeochemistry,Fixation and Uptake of Nitrogen,#AE7E47
+154,sand_pf,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+155,scvng_fct_mlt_sf,Hydrology,Snow,#4777AE
+156,slatop,"Stomatal Conductance &
+Photosynthesis",Leaf Use of Nitrogen for Assimilation,#47AE4B
+157,slopebeta,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+158,slopemax,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+159,snow_canopy_storage_scalar,Biophysics,Sensible and latent heat properties,#AE47AA
+160,snowcan_unload_temp_fact,Hydrology,Snow,#4777AE
+161,snowcan_unload_wind_fact,Hydrology,Snow,#4777AE
+162,snw_rds_refrz,Hydrology,Snow,#4777AE
+163,soilpsi_off,Biogeochemistry,Phenology,#AE7E47
+164,soilpsi_on,Biogeochemistry,Phenology,#AE7E47
+165,som_diffus,Biogeochemistry,Decomposition,#AE7E47
+166,ssi,Hydrology,Snow,#4777AE
+167,stem_leaf,Biogeochemistry,Allocation,#AE7E47
+168,sucsat_sf,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+169,tau_cwd,Biogeochemistry,Decomposition,#AE7E47
+170,tau_l1,Biogeochemistry,Decomposition,#AE7E47
+171,tau_l2_l3,Biogeochemistry,Decomposition,#AE7E47
+172,tau_ref,Hydrology,Snow,#4777AE
+173,tau_s1,Biogeochemistry,Decomposition,#AE7E47
+174,tau_s2,Biogeochemistry,Decomposition,#AE7E47
+175,tau_s3,Biogeochemistry,Decomposition,#AE7E47
+176,taulnir,Biophysics,Radiation,#AE47AA
+177,taulvis,Biophysics,Radiation,#AE47AA
+178,tausnir,Biophysics,Radiation,#AE47AA
+179,tausvis,Biophysics,Radiation,#AE47AA
+180,theta_cj,"Stomatal Conductance &
+Photosynthesis",Photosynthesis,#47AE4B
+181,theta_ip,"Stomatal Conductance &
+Photosynthesis",Photosynthesis,#47AE4B
+182,theta_psii,"Stomatal Conductance &
+Photosynthesis",Photosynthesis,#47AE4B
+183,tkd_clay,Hydrology,Soil thermal properties,#4777AE
+184,tkd_om,Hydrology,Soil thermal properties,#4777AE
+185,tkd_sand,Hydrology,Soil thermal properties,#4777AE
+186,tkm_om,Hydrology,Soil thermal properties,#4777AE
+187,tpu25ratio,"Stomatal Conductance &
+Photosynthesis",Photosynthesis,#47AE4B
+188,tpuha,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+189,tpuhd,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+190,tpuse_sf,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+191,ufuel,Fire,Fire,#d5492a
+192,upplim_destruct_metamorph,Hydrology,Snow,#4777AE
+193,vcmaxha,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+194,vcmaxhd,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+195,vcmaxse_sf,"Stomatal Conductance &
+Photosynthesis",Acclimation,#47AE4B
+196,watsat_sf,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+197,wc2wjb0,"Stomatal Conductance &
+Photosynthesis",Leaf Use of Nitrogen for Assimilation,#47AE4B
+198,wimp,Hydrology,Snow,#4777AE
+199,wind_min,Biophysics,Sensible and latent heat properties,#AE47AA
+200,wind_snowcompact_fact,Hydrology,Snow,#4777AE
+201,wood_density,Biophysics,Biomass Heat Storage,#AE47AA
+202,xdrdt,Hydrology,Snow,#4777AE
+203,xl,Biophysics,Radiation,#AE47AA
+204,z0mr,Biophysics,Sensible and latent heat properties,#AE47AA
+205,z_dl,Biophysics,Sensible and latent heat properties,#AE47AA
+206,zbedrock_sf,Hydrology,"Soil hydraulics, evap and runoff",#4777AE
+207,zetamaxstable,Biophysics,Sensible and latent heat properties,#AE47AA
+208,zlnd,Biophysics,Sensible and latent heat properties,#AE47AA
+209,zsno,Biophysics,Sensible and latent heat properties,#AE47AA
